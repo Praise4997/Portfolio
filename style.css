@@ -267,6 +267,12 @@ img{
     max-width: 500px;
     margin: 0 auto;
 }
+.service-top p{
+    font-size: 1.5em;
+    font-family: sans-serif;
+    line-height: 1.5;
+    letter-spacing: normal;
+}
 #services .service-bottom {
     display: flex;
     align-items: center;
@@ -437,6 +443,12 @@ img{
     font-weight: 550;
     letter-spacing: .2rem;
     margin-bottom: 10px;
+}
+#about .col-right p{
+    line-height: 1.5;
+    letter-spacing: normal;
+    font-size: 1.5em;
+    font-family: sans-serif;
 }
 #about .btn {
     margin-bottom: 50px;
